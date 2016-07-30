@@ -1,4 +1,4 @@
 # ideal-broccoli
 just another repository
-Linjing her,
+Linjing here,
 I want to be a great code god.
